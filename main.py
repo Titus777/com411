@@ -21,9 +21,7 @@ System reboot has been initiated...
 
 System online.
 """)
-<<<<<<< HEAD
-print("Hello My Name Is \"Titus\" \n\t How Are You")
-=======
+
 print("Hello My Name Is \"Titus\" \n\t How Are You")
 
 
@@ -37,4 +35,3 @@ if len(letter) == 1:
 
 
 print("Program Ended")
->>>>>>> start of week three
