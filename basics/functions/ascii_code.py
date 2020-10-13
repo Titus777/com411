@@ -7,4 +7,4 @@ if len(letter) == 1:
  print("The ASCII code for {} is {}". format(letter,ASCII))
 
 
-print("Program Ended")
+print("Program Ended.")
