@@ -21,4 +21,20 @@ System reboot has been initiated...
 
 System online.
 """)
+<<<<<<< HEAD
 print("Hello My Name Is \"Titus\" \n\t How Are You")
+=======
+print("Hello My Name Is \"Titus\" \n\t How Are You")
+
+
+print("Program Started")
+print("Please enter a standard character")
+letter=str(input())
+
+if len(letter) == 1:
+ ASCII = ord(letter)
+ print("The ASCII code for {} is {}". format(letter,ASCII))
+
+
+print("Program Ended")
+>>>>>>> start of week three

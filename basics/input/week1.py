@@ -21,3 +21,10 @@ print("What is Your Weight")
 weight=float(input())
 bmi=weight/(height*height)
 print(name,"you are",age,"years old and your bmi is",bmi)
+<<<<<<< HEAD
+=======
+
+
+
+print
+>>>>>>> start of week three
