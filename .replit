@@ -1,4 +1,4 @@
 language = "python3"
-<<<<<<< HEAD
-run = "python data/dicts/nested_dicts.py"
+
+run = "python data/files/cwd.py"
 
