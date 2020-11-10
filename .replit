@@ -1,2 +1,10 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python data/dicts/simple_dict.py "
+=======
+<<<<<<< HEAD
+run = "python data/sets/set_from_list.py"
+=======
+run = "python data/lists/nested_tuple.py"
+>>>>>>> bc67d8535f96f91b0493d05a4e698852d4d8f320
+>>>>>>> 01f1d06314a7d4d5666a4f4f24cb6300752b36e7
