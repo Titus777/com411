@@ -1,4 +1,8 @@
 language = "python3"
 
+<<<<<<< HEAD
 run = "python visual/subplots/temps.py"
+=======
+run = "python visual/plots/dict.py"
+>>>>>>> 11f11ec76e14872b2a3e046b6940fc12505b1b5e
 
