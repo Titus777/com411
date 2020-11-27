@@ -1,7 +1,3 @@
 language = "python3"
 
-<<<<<<< HEAD
-run = "python visual/animations/function.py"
-=======
-run = "python visual/subplots/titanic.py"
->>>>>>> 1cc0fba80005ac93f4502af8eccff9283290b419
+run = "python visual/animations/simple.py"
