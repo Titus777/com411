@@ -1,3 +1,7 @@
 language = "python3"
 
+<<<<<<< HEAD
 run = "python oop/human.py"
+=======
+run = "python visual/animations/squares.py"
+>>>>>>> 098abab7e2a7fb103a3c96615dacc9bdd43c3e32
